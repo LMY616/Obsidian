@@ -1,0 +1,3 @@
+body {
+	--file-line-width: 100rem;  # 默认值为 45rem
+}

@@ -1,0 +1,37 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": "#33a2ff",
+    "recentlyUsedIcons": [
+      "SeMath",
+      "SeRobot",
+      "SeSoC",
+      "SePWM",
+      "RiRuler2Line"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":"
+  },
+  "高数考研": "SeMath",
+  "PWM整流器及其控制": "SePWM",
+  "SoC设计方法": {
+    "iconName": "SeSoC",
+    "iconColor": "#33a2ff"
+  },
+  "自动控制原理": "SeRobot"
+}

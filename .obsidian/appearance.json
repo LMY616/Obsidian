@@ -1,0 +1,10 @@
+{
+  "accentColor": "#33a2ff",
+  "cssTheme": "Minimal",
+  "baseFontSize": 20,
+  "baseFontSizeAction": true,
+  "interfaceFontFamily": "HarmonyOS Sans SC",
+  "textFontFamily": "HarmonyOS Sans SC",
+  "monospaceFontFamily": "HarmonyOS Sans SC",
+  "enabledCssSnippets": []
+}

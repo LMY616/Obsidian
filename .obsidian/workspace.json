@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "3266261a3925bcec",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd6e1d00c144e208",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d105accaa0714060",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "电磁场与电磁波/第一章    矢量分析/§1-5 矢量场的通量、散度和散度定理/§1-5矢量场的通量、散度和散度定理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e5d0303bea51360",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "电磁场与电磁波/第一章    矢量分析/§1-6 矢量场的环量、旋度与旋度定理/§1-6 矢量场的环量、旋度与旋度定理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2dded3d788ea0c8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "电磁场与电磁波/第一章    矢量分析/§1-6 矢量场的环量、旋度与旋度定理/§1-6 矢量场的环量、旋度与旋度定理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "83b53fbb758af1fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba24e1f56f669946",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2289feec27a07b4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "571a78d46e32ee8a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4431200e78525f3a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 325.5
+  },
+  "right": {
+    "id": "27c8763f6df0c9ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "1346d8deae6d86ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2a30b5fd6704962",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "电磁场与电磁波/第一章    矢量分析/§1-6 矢量场的环量、旋度与旋度定理/§1-6 矢量场的环量、旋度与旋度定理.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7ce1a726b981e9b1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "电磁场与电磁波/第一章    矢量分析/§1-6 矢量场的环量、旋度与旋度定理/§1-6 矢量场的环量、旋度与旋度定理.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f6a1044835a968f9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1ff1af203dbc2b9b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "电磁场与电磁波/第一章    矢量分析/§1-6 矢量场的环量、旋度与旋度定理/§1-6 矢量场的环量、旋度与旋度定理.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "7e5d0303bea51360",
+  "lastOpenFiles": [
+    "电磁场与电磁波/第一章    矢量分析/§1-5 矢量场的通量、散度和散度定理/§1-5矢量场的通量、散度和散度定理.md",
+    "电磁场与电磁波/第一章    矢量分析/§1-6 矢量场的环量、旋度与旋度定理/§1-6 矢量场的环量、旋度与旋度定理.md",
+    "电磁场与电磁波/第一章    矢量分析/§1-4 标量场的方向导数与梯度/§1-4 标量场的方向导数与梯度.md",
+    "电磁场与电磁波/第一章    矢量分析/§1-7 无散场与无旋场/§1-7 无散场与无旋场.md",
+    "电磁场与电磁波/第一章    矢量分析/§1-7 无散场与无旋场/教材截图",
+    "电磁场与电磁波/第一章    矢量分析/§1-7 无散场与无旋场",
+    "电磁场与电磁波/第一章    矢量分析/§1-6 矢量场的环量、旋度与旋度定理/教材截图/Pasted image 20240309103041.png",
+    "电磁场与电磁波/第一章    矢量分析/§1-6 矢量场的环量、旋度与旋度定理/教材截图/Pasted image 20240309102150.png",
+    "电磁场与电磁波/第一章    矢量分析/§1-6 矢量场的环量、旋度与旋度定理/教材截图/Pasted image 20240309102136.png",
+    "Pasted image 20240309102056.png",
+    "电磁场与电磁波/第一章    矢量分析/§1-6 矢量场的环量、旋度与旋度定理/教材截图/Pasted image 20240309100252.png",
+    "电磁场与电磁波/第一章    矢量分析/§1-6 矢量场的环量、旋度与旋度定理/教材截图/Pasted image 20240309101609.png",
+    "电磁场与电磁波/第一章    矢量分析/§1-6 矢量场的环量、旋度与旋度定理/教材截图/Pasted image 20240309095218.png",
+    "电磁场与电磁波/第一章    矢量分析/§1-6 矢量场的环量、旋度与旋度定理/教材截图/Pasted image 20240309095617.png",
+    "电磁场与电磁波/第一章    矢量分析/§1-6 矢量场的环量、旋度与旋度定理/教材截图/Pasted image 20240309095450.png",
+    "电磁场与电磁波/第一章    矢量分析/§1-6 矢量场的环量、旋度与旋度定理/教材截图/Pasted image 20240309095448.png",
+    "Excalidraw/Drawing 2024-03-07 21.18.28.excalidraw.md",
+    "Excalidraw/未命名.md",
+    "电磁场与电磁波/第一章    矢量分析/§1-6 矢量场的环量、旋度与旋度定理/教材截图",
+    "电磁场与电磁波/第一章    矢量分析/§1-6 矢量场的环量、旋度与旋度定理",
+    "电磁场与电磁波/第一章    矢量分析",
+    "高数考研/考研高等数学常识.md",
+    "电磁场与电磁波/第一章    矢量分析/§1-5 矢量场的通量、散度和散度定理/教材截图",
+    "电磁场与电磁波/第一章    矢量分析/§1-5 矢量场的通量、散度和散度定理",
+    "电磁场与电磁波/第一章    矢量分析/§1-4 标量场的方向导数与梯度/教材截图",
+    "电磁场与电磁波/第一章    矢量分析/§1-4 标量场的方向导数与梯度",
+    "Excalidraw/Drawing 2024-03-08 11.25.53.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-07 21.18.44.excalidraw.md",
+    "电磁场与电磁波/未命名 1.md",
+    "2024-03-08.md",
+    "MOSFET和IGBT入门与精通",
+    "121.md",
+    "模拟集成电路/test.md",
+    "Excalidraw/未命名.canvas"
+  ]
+}
