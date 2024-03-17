@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "57a02e043b6a061b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/§2_2  (PTAT) Proportional to Absolute Temp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fd714ecf244912e6",
             "type": "leaf",
             "state": {
@@ -30,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "57a02e043b6a061b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/§2_2  (PTAT) Proportional to Absolute Temp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,11 +163,11 @@
   },
   "active": "57a02e043b6a061b",
   "lastOpenFiles": [
+    "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/§2 Temperture Idependence.md",
+    "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/§2_2  (PTAT) Proportional to Absolute Temp.md",
     "Pasted image 20240317193111.png",
     "Pasted image 20240317193021.png",
     "Pasted image 20240317192511.png",
-    "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/§2 Temperture Idependence.md",
-    "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/§2_2  (PTAT) Proportional to Absolute Temp.md",
     "Pasted image 20240317192345.png",
     "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/课程截图/Pasted image 20240317192105.png",
     "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/课程截图/Pasted image 20240317191110.png",
@@ -174,7 +175,6 @@
     "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/课程截图/Pasted image 20240317190403.png",
     "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/课程截图/Pasted image 20240317190220.png",
     "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/课程截图/Pasted image 20240317185403.png",
-    "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/课程截图/Pasted image 20240317185156.png",
     "高数考研/考研高等数学常识.md",
     "模拟集成电路/Refrence Circuits/§2",
     "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/课程截图",
