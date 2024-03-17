@@ -45,4 +45,4 @@ $$g_{m6,7}=2   \cdot   \frac{1}{R_s}   \cdot   (1-   \frac{1}{\sqrt[]{K}})$$
 可以看到跨导只和Rs与K有关
 
 增益为
-
+![[Pasted image 20240317172253.png]]
