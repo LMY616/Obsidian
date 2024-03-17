@@ -46,3 +46,9 @@ $$g_{m6,7}=2   \cdot   \frac{1}{R_s}   \cdot   (1-   \frac{1}{\sqrt[]{K}})$$
 
 增益为
 ![[Pasted image 20240317172253.png]]
+
+
+
+
+![[Pasted image 20240317172805.png]]
+既然左边这种接法可以，那么右边这种接法呢？
