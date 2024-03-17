@@ -23,9 +23,11 @@
             "id": "57a02e043b6a061b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20240317172805.png"
+                "file": "模拟集成电路/Refrence Circuits/Reference circuits.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240317172805.png",
+                "file": "模拟集成电路/Refrence Circuits/Reference circuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240317172805.png",
+                "file": "模拟集成电路/Refrence Circuits/Reference circuits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240317172805.png"
+                "file": "模拟集成电路/Refrence Circuits/Reference circuits.md"
               }
             }
           }
@@ -161,8 +163,9 @@
   },
   "active": "57a02e043b6a061b",
   "lastOpenFiles": [
+    "Pasted image 20240317174157.png",
+    "模拟集成电路/Refrence Circuits/课程截图/Pasted image 20240317172805.png",
     "模拟集成电路/Refrence Circuits/Reference circuits.md",
-    "Pasted image 20240317172805.png",
     "模拟集成电路/Refrence Circuits/课程截图/Pasted image 20240317172336.png",
     "模拟集成电路/Refrence Circuits/课程截图/Pasted image 20240317172253.png",
     "Pasted image 20240317172226.png",
