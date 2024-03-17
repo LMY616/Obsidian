@@ -41,6 +41,8 @@ M5宽长比（W/L）是M1的2倍，那么流过M5的静态电流Ids为两倍的I
 可得M6和M7的跨导表达式
 ![[Pasted image 20240317171113.png]]
 我们假设M6、M7的宽长比与M1、M2的相同，简化后可得
-$$g_{m6,7}=\sqrt[]{2}   \cdot   \frac{1}{R_s}   \cdot   (1-   \frac{1}{\sqrt[]{k}})$$
+$$g_{m6,7}=2   \cdot   \frac{1}{R_s}   \cdot   (1-   \frac{1}{\sqrt[]{K}})$$
 可以看到跨导只和Rs与K有关
+
+增益为
 
