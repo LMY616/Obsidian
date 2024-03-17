@@ -18,24 +18,27 @@ Vbg可能有1.25V左右
 
 
 接下来讲一个例子
-![[Pasted image 20240317183121.png]]
+![[Pasted image 20240317183121 1.png]]
 有两个反馈路径，一个是通过R1，另一个通过R2
 先研究电路是正反馈还是负反馈
 
 我们先假设是负反馈
 
+
 这里三极管的接法将其等效为小信号模型
-![[Pasted image 20240317183542.png]]
+![[Pasted image 20240317183542 1.png]]
 就等同于只有个$\frac{1}{g_m}$
 
+
+
 正反馈回路
-![[Pasted image 20240317183743.png]]
+![[Pasted image 20240317183743 1.png]]
 等效小信号和增益
-![[Pasted image 20240317183829.png]]
+![[Pasted image 20240317183829 1.png]]
 
 
 
 负反馈回路
-
+![[Pasted image 20240317184017 1.png]]
 等效小信号和增益
-![[Pasted image 20240317183924.png]]
+![[Pasted image 20240317183924 1.png]]
