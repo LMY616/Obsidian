@@ -52,3 +52,6 @@ Vbg可能有1.25V左右（bg就代表band gap，带隙的意思）
 ![[Pasted image 20240317185118.png]]
 得到
 ![[Pasted image 20240317185156.png]]
+输出电压为
+![[Pasted image 20240317185403.png]]
+这里zjhi
