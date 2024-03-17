@@ -11,6 +11,16 @@
             "id": "7e5d0303bea51360",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "模拟集成电路/Refrence Circuits/课程截图/Pasted image 20240317163803.png"
+              }
+            }
+          },
+          {
+            "id": "31514ca028037275",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "模拟集成电路/Refrence Circuits/Reference circuits.md",
@@ -19,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,12 +159,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "7e5d0303bea51360",
+  "active": "31514ca028037275",
   "lastOpenFiles": [
-    "Pasted image 20240317163803.png",
+    "模拟集成电路/Refrence Circuits/课程截图/Pasted image 20240317163803.png",
+    "模拟集成电路/Refrence Circuits/课程截图/Pasted image 20240317164100.png",
+    "模拟集成电路/Refrence Circuits/Reference circuits.md",
     "模拟集成电路/Refrence Circuits/课程截图/Pasted image 20240317163304.png",
     "模拟集成电路/Refrence Circuits/课程截图/Pasted image 20240317163139.png",
-    "模拟集成电路/Refrence Circuits/Reference circuits.md",
     "模拟集成电路/Refrence Circuits/课程截图/Pasted image 20240317162351.png",
     "模拟集成电路/Refrence Circuits/课程截图",
     "电磁场与电磁波/第一章    矢量分析/§1-5 矢量场的通量、散度和散度定理/§1-5矢量场的通量、散度和散度定理.md",
@@ -168,8 +180,6 @@
     "电磁场与电磁波/第一章    矢量分析/§1-6 矢量场的环量、旋度与旋度定理/教材截图/Pasted image 20240309102136.png",
     "Pasted image 20240309102056.png",
     "电磁场与电磁波/第一章    矢量分析/§1-6 矢量场的环量、旋度与旋度定理/教材截图/Pasted image 20240309100252.png",
-    "电磁场与电磁波/第一章    矢量分析/§1-6 矢量场的环量、旋度与旋度定理/教材截图/Pasted image 20240309101609.png",
-    "电磁场与电磁波/第一章    矢量分析/§1-6 矢量场的环量、旋度与旋度定理/教材截图/Pasted image 20240309095218.png",
     "Excalidraw/Drawing 2024-03-07 21.18.28.excalidraw.md",
     "Excalidraw/未命名.md",
     "电磁场与电磁波/第一章    矢量分析/§1-6 矢量场的环量、旋度与旋度定理/教材截图",
