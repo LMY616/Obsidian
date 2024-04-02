@@ -3,12 +3,12 @@
 
 正温度系数参数
 阈值电压Vt
-![[Pasted image 20240317175403.png]]
+![[Pasted image 20240317175403 1.png]]
 
 
 负温度系数
 三极管的Vbe
-![[Pasted image 20240317175821.png]]
+![[Pasted image 20240317175821 1.png]]
 
 
 

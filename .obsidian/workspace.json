@@ -11,23 +11,19 @@
             "id": "fd714ecf244912e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/§2 Temperture Idependence.md",
-                "mode": "source",
-                "source": false
+                "file": "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/课程截图/Pasted image 20240317193111.png"
               }
             }
           },
           {
-            "id": "57a02e043b6a061b",
+            "id": "bdba48217b676776",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/§2_2  (PTAT) Proportional to Absolute Temp.md",
-                "mode": "source",
-                "source": false
+                "file": "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/课程截图/Pasted image 20240317175403 1.png"
               }
             }
           }
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/§2_2  (PTAT) Proportional to Absolute Temp.md",
+                "file": "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/课程截图/Pasted image 20240317175403 1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/§2_2  (PTAT) Proportional to Absolute Temp.md",
+                "file": "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/课程截图/Pasted image 20240317175403 1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/§2_2  (PTAT) Proportional to Absolute Temp.md"
+                "file": "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/课程截图/Pasted image 20240317175403 1.png"
               }
             }
           }
@@ -161,18 +157,18 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "57a02e043b6a061b",
+  "active": "b2289feec27a07b4",
   "lastOpenFiles": [
+    "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/课程截图/Pasted image 20240317193021.png",
+    "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/课程截图/Pasted image 20240317193111.png",
     "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/§2 Temperture Idependence.md",
-    "模拟集成电路/Refrence Circuits/§1 Supply Insensitive Ref/§1 Supply Insensitive Ref.md",
-    "Pasted image 20240317175821.png",
-    "Pasted image 20240317175403.png",
+    "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/课程截图/Pasted image 20240317175403 1.png",
+    "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/课程截图/Pasted image 20240317175821 1.png",
+    "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/课程截图/Pasted image 20240317192345.png",
+    "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/课程截图/Pasted image 20240317192511.png",
     "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/§2_2  (PTAT) Proportional to Absolute Temp.md",
+    "模拟集成电路/Refrence Circuits/§1 Supply Insensitive Ref/§1 Supply Insensitive Ref.md",
     "Excalidraw/Drawing 2024-03-07 21.18.28.excalidraw.md",
-    "Pasted image 20240317192345.png",
-    "Pasted image 20240317192511.png",
-    "Pasted image 20240317193021.png",
-    "Pasted image 20240317193111.png",
     "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/课程截图/Pasted image 20240317192105.png",
     "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/课程截图/Pasted image 20240317191110.png",
     "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/课程截图/Pasted image 20240317190409.png",
