@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数考研/考研高等数学常识.md",
+                "file": "SoC设计方法/第一章概述/第一章概述.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "高数考研/考研高等数学常识.md",
+                "file": "SoC设计方法/第一章概述/第一章概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "高数考研/考研高等数学常识.md",
+                "file": "SoC设计方法/第一章概述/第一章概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高数考研/考研高等数学常识.md"
+                "file": "SoC设计方法/第一章概述/第一章概述.md"
               }
             }
           }
@@ -161,6 +161,9 @@
   },
   "active": "bdba48217b676776",
   "lastOpenFiles": [
+    "高数考研/考研高等数学常识.md",
+    "SoC设计方法/第一章概述/第一章概述.md",
+    "SoC设计方法/第一章概述",
     "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/课程截图/Pasted image 20240317193111.png",
     "碳化硅电力电子器件原理与应用/未命名",
     "碳化硅电力电子器件原理与应用",
@@ -177,7 +180,6 @@
     "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/课程截图/Pasted image 20240317191110.png",
     "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/课程截图/Pasted image 20240317190409.png",
     "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/课程截图/Pasted image 20240317190403.png",
-    "高数考研/考研高等数学常识.md",
     "模拟集成电路/Refrence Circuits/§2",
     "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/课程截图",
     "模拟集成电路/Refrence Circuits/§2 Temperture Idependence",
@@ -189,7 +191,6 @@
     "电磁场与电磁波/第一章    矢量分析/§1-6 矢量场的环量、旋度与旋度定理/§1-6 矢量场的环量、旋度与旋度定理.md",
     "电磁场与电磁波/第一章    矢量分析/§1-7 无散场与无旋场/§1-7 无散场与无旋场.md",
     "电磁场与电磁波/第一章    矢量分析/§1-7 无散场与无旋场/教材截图",
-    "电磁场与电磁波/第一章    矢量分析/§1-7 无散场与无旋场",
     "Excalidraw/未命名.md",
     "Excalidraw/Drawing 2024-03-08 11.25.53.excalidraw.md",
     "Excalidraw/Drawing 2024-03-07 21.18.44.excalidraw.md",
