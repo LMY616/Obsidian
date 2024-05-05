@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SoC设计方法/第2章/第二章.md",
+                "file": "模拟集成电路/Refrence Circuits/§1 Supply Insensitive Ref/§1 Supply Insensitive Ref.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SoC设计方法/第2章/第二章.md",
+                "file": "模拟集成电路/Refrence Circuits/§1 Supply Insensitive Ref/§1 Supply Insensitive Ref.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SoC设计方法/第2章/第二章.md",
+                "file": "模拟集成电路/Refrence Circuits/§1 Supply Insensitive Ref/§1 Supply Insensitive Ref.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SoC设计方法/第2章/第二章.md"
+                "file": "模拟集成电路/Refrence Circuits/§1 Supply Insensitive Ref/§1 Supply Insensitive Ref.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "bdba48217b676776",
   "lastOpenFiles": [
-    "SoC设计方法/第1章概述/第一章概述.md",
     "SoC设计方法/第2章/第二章.md",
+    "SoC设计方法/第1章概述/第一章概述.md",
     "SoC设计方法/第2章",
     "高数考研/考研高等数学常识.md",
     "SoC设计方法/第1章概述",
