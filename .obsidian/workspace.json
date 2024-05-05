@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SoC设计方法/第2章/§2 可综合描述语句.md",
+                "file": "SoC设计方法/第2章/§1 可综合描述语句.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SoC设计方法/第2章/§2 可综合描述语句.md",
+                "file": "SoC设计方法/第2章/§1 可综合描述语句.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SoC设计方法/第2章/§2 可综合描述语句.md",
+                "file": "SoC设计方法/第2章/§1 可综合描述语句.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SoC设计方法/第2章/§2 可综合描述语句.md"
+                "file": "SoC设计方法/第2章/§1 可综合描述语句.md"
               }
             }
           }
@@ -148,10 +148,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c51e90f171757dfc",
+  "active": "b2289feec27a07b4",
   "lastOpenFiles": [
     "SoC设计方法/第2章/课程截图/Pasted image 20240505144534.png",
-    "SoC设计方法/第2章/§2 可综合描述语句.md",
+    "SoC设计方法/第2章/§1 可综合描述语句.md",
     "SoC设计方法/第2章/课程截图/Pasted image 20240505144320.png",
     "SoC设计方法/第2章/课程截图/Pasted image 20240505144102.png",
     "SoC设计方法/第2章/课程截图/Pasted image 20240505142713.png",
