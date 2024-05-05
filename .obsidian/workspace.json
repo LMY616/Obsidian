@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "cd6e1d00c144e208",
+        "id": "e0467aa868e40e65",
         "type": "tabs",
         "children": [
           {
-            "id": "fd714ecf244912e6",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/课程截图/Pasted image 20240317193111.png"
-              }
-            }
-          },
-          {
-            "id": "bdba48217b676776",
+            "id": "3891c814dbd21cc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "模拟集成电路/Refrence Circuits/§1 Supply Insensitive Ref/§1 Supply Insensitive Ref.md",
+                "file": "SoC设计方法/第2章/§2 可综合描述语句.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "模拟集成电路/Refrence Circuits/§1 Supply Insensitive Ref/§1 Supply Insensitive Ref.md",
+                "file": "SoC设计方法/第2章/§2 可综合描述语句.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "模拟集成电路/Refrence Circuits/§1 Supply Insensitive Ref/§1 Supply Insensitive Ref.md",
+                "file": "SoC设计方法/第2章/§2 可综合描述语句.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "模拟集成电路/Refrence Circuits/§1 Supply Insensitive Ref/§1 Supply Insensitive Ref.md"
+                "file": "SoC设计方法/第2章/§2 可综合描述语句.md"
               }
             }
           }
@@ -159,14 +148,15 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "bdba48217b676776",
+  "active": "3891c814dbd21cc9",
   "lastOpenFiles": [
-    "SoC设计方法/第2章/第二章.md",
+    "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/课程截图/Pasted image 20240317193111.png",
+    "模拟集成电路/Refrence Circuits/§1 Supply Insensitive Ref/§1 Supply Insensitive Ref.md",
+    "SoC设计方法/第2章/§2 可综合描述语句.md",
     "SoC设计方法/第1章概述/第一章概述.md",
     "SoC设计方法/第2章",
     "高数考研/考研高等数学常识.md",
     "SoC设计方法/第1章概述",
-    "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/课程截图/Pasted image 20240317193111.png",
     "碳化硅电力电子器件原理与应用/未命名",
     "碳化硅电力电子器件原理与应用",
     "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/§2 Temperture Idependence.md",
@@ -176,7 +166,6 @@
     "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/课程截图/Pasted image 20240317192345.png",
     "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/课程截图/Pasted image 20240317192511.png",
     "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/§2_2  (PTAT) Proportional to Absolute Temp.md",
-    "模拟集成电路/Refrence Circuits/§1 Supply Insensitive Ref/§1 Supply Insensitive Ref.md",
     "Excalidraw/Drawing 2024-03-07 21.18.28.excalidraw.md",
     "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/课程截图/Pasted image 20240317192105.png",
     "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/课程截图/Pasted image 20240317191110.png",
