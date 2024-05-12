@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "889345c821436e0e",
+        "id": "0876efe2fbca506c",
         "type": "tabs",
         "children": [
           {
-            "id": "9ba33a386a253673",
+            "id": "78b35a2c6d535809",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-07 21.18.28.excalidraw.md"
+                "file": "SoC设计方法/第3章 同步电路与跨时钟域电路设计/§1 亚稳态/§1 亚稳态.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-07 21.18.28.excalidraw.md",
+                "file": "SoC设计方法/第3章 同步电路与跨时钟域电路设计/§1 亚稳态/§1 亚稳态.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-07 21.18.28.excalidraw.md",
+                "file": "SoC设计方法/第3章 同步电路与跨时钟域电路设计/§1 亚稳态/§1 亚稳态.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-07 21.18.28.excalidraw.md"
+                "file": "SoC设计方法/第3章 同步电路与跨时钟域电路设计/§1 亚稳态/§1 亚稳态.md"
               }
             }
           }
@@ -146,11 +148,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "9ba33a386a253673",
+  "active": "78b35a2c6d535809",
   "lastOpenFiles": [
+    "SoC设计方法/第3章 同步电路与跨时钟域电路设计/资料截图/Pasted image 20240512223135.png",
     "SoC设计方法/第3章 同步电路与跨时钟域电路设计/§1 亚稳态/§1 亚稳态.md",
-    "Pasted image 20240512223135.png",
-    "Pasted image 20240512223110.png",
+    "Excalidraw/Drawing 2024-03-07 21.18.28.excalidraw.md",
+    "SoC设计方法/第3章 同步电路与跨时钟域电路设计/资料截图/Pasted image 20240512223110.png",
     "SoC设计方法/第3章 同步电路与跨时钟域电路设计/资料截图",
     "SoC设计方法/第1章概述/第一章概述.md",
     "SoC设计方法/第4章 逻辑综合/§1 逻辑综合概述和基本知识.md",
@@ -177,7 +180,6 @@
     "碳化硅电力电子器件原理与应用",
     "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/§2 Temperture Idependence.md",
     "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/§2_2  (PTAT) Proportional to Absolute Temp.md",
-    "Excalidraw/Drawing 2024-03-07 21.18.28.excalidraw.md",
     "电磁场与电磁波/第一章    矢量分析/§1-4 标量场的方向导数与梯度/§1-4 标量场的方向导数与梯度.md",
     "电磁场与电磁波/第一章    矢量分析/§1-5 矢量场的通量、散度和散度定理/§1-5矢量场的通量、散度和散度定理.md",
     "电磁场与电磁波/第一章    矢量分析/§1-6 矢量场的环量、旋度与旋度定理/§1-6 矢量场的环量、旋度与旋度定理.md",
