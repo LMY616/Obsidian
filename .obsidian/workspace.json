@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SoC设计方法/第3章 同步电路与跨时钟域电路设计/§1 亚稳态/§1 亚稳态.md",
+                "file": "SoC设计方法/第1章概述/第一章概述.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SoC设计方法/第3章 同步电路与跨时钟域电路设计/§1 亚稳态/§1 亚稳态.md",
+                "file": "SoC设计方法/第1章概述/第一章概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SoC设计方法/第3章 同步电路与跨时钟域电路设计/§1 亚稳态/§1 亚稳态.md",
+                "file": "SoC设计方法/第1章概述/第一章概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SoC设计方法/第3章 同步电路与跨时钟域电路设计/§1 亚稳态/§1 亚稳态.md"
+                "file": "SoC设计方法/第1章概述/第一章概述.md"
               }
             }
           }
@@ -150,8 +150,8 @@
   },
   "active": "9ba33a386a253673",
   "lastOpenFiles": [
-    "Pasted image 20240511142329.png",
     "SoC设计方法/第4章 逻辑综合/§1 逻辑综合概述和基本知识.md",
+    "SoC设计方法/第4章 逻辑综合/课程截图/Pasted image 20240511142329 1.png",
     "SoC设计方法/第3章 同步电路与跨时钟域电路设计/§1 亚稳态/§1 亚稳态.md",
     "SoC设计方法/第3章 同步电路与跨时钟域电路设计/§1 亚稳态",
     "SoC设计方法/第4章 逻辑综合/课程截图/Pasted image 20240511142329.png",
@@ -164,7 +164,6 @@
     "SoC设计方法/第4章 逻辑综合/课程截图/Pasted image 20240511140247.png",
     "SoC设计方法/第4章 逻辑综合/课程截图/Pasted image 20240511135228.png",
     "SoC设计方法/第4章 逻辑综合/课程截图/Pasted image 20240511135130.png",
-    "SoC设计方法/第4章 逻辑综合/课程截图/Pasted image 20240511134326.png",
     "SoC设计方法/第4章 逻辑综合/课程截图",
     "SoC设计方法/第2章/§1 可综合描述语句.md",
     "高数考研/考研高等数学常识.md",
