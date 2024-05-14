@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#已经走了",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,8 +148,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "571a78d46e32ee8a",
+  "active": "cac01e1965852bd7",
   "lastOpenFiles": [
+    "Pasted image 20240514214124.png",
     "Pasted image 20240514213100.png",
     "SoC设计方法/第3章 同步电路与跨时钟域电路设计/§1 亚稳态/§1 亚稳态.md",
     "SoC设计方法/第3章 同步电路与跨时钟域电路设计/资料截图/Pasted image 20240514211912.png",
@@ -166,7 +166,6 @@
     "SoC设计方法/第2章/§2 延迟、面积的优化.md",
     "SoC设计方法/第1章概述/第一章概述.md",
     "SoC设计方法/第3章 同步电路与跨时钟域电路设计/资料截图/Pasted image 20240513213700.png",
-    "SoC设计方法/第3章 同步电路与跨时钟域电路设计/资料截图/Pasted image 20240513213002.png",
     "Excalidraw/未命名.md",
     "Excalidraw/Drawing 2024-03-07 21.18.28.excalidraw.md",
     "SoC设计方法/第3章 同步电路与跨时钟域电路设计/资料截图",
