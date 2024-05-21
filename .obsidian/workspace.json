@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 227.5
   },
   "right": {
     "id": "27c8763f6df0c9ad",
@@ -150,6 +150,7 @@
   },
   "active": "cac01e1965852bd7",
   "lastOpenFiles": [
+    "Pasted image 20240521212105.png",
     "Pasted image 20240521205539.png",
     "Pasted image 20240521205150.png",
     "SoC设计方法/第3章 同步电路与跨时钟域电路设计/资料截图/Pasted image 20240521204958.png",
@@ -165,7 +166,6 @@
     "SoC设计方法/第3章 同步电路与跨时钟域电路设计/资料截图/Pasted image 20240514213100.png",
     "SoC设计方法/第3章 同步电路与跨时钟域电路设计/资料截图/Pasted image 20240514223124.png",
     "SoC设计方法/第3章 同步电路与跨时钟域电路设计/资料截图/Pasted image 20240514222758.png",
-    "SoC设计方法/第3章 同步电路与跨时钟域电路设计/资料截图/Pasted image 20240514222436.png",
     "Excalidraw/未命名.md",
     "Excalidraw/Drawing 2024-03-07 21.18.28.excalidraw.md",
     "SoC设计方法/第3章 同步电路与跨时钟域电路设计/资料截图",
