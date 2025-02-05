@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SoC设计方法/第3章 同步电路与跨时钟域电路设计/§1 亚稳态/§1 亚稳态.md",
+                "file": "模拟集成电路/Refrence Circuits/§1 Supply Insensitive Ref/§1 Supply Insensitive Ref.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SoC设计方法/第3章 同步电路与跨时钟域电路设计/§1 亚稳态/§1 亚稳态.md",
+                "file": "模拟集成电路/Refrence Circuits/§1 Supply Insensitive Ref/§1 Supply Insensitive Ref.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SoC设计方法/第3章 同步电路与跨时钟域电路设计/§1 亚稳态/§1 亚稳态.md",
+                "file": "模拟集成电路/Refrence Circuits/§1 Supply Insensitive Ref/§1 Supply Insensitive Ref.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SoC设计方法/第3章 同步电路与跨时钟域电路设计/§1 亚稳态/§1 亚稳态.md"
+                "file": "模拟集成电路/Refrence Circuits/§1 Supply Insensitive Ref/§1 Supply Insensitive Ref.md"
               }
             }
           }
@@ -150,12 +150,12 @@
   },
   "active": "cac01e1965852bd7",
   "lastOpenFiles": [
+    "SoC设计方法/第3章 同步电路与跨时钟域电路设计/§1 亚稳态/§1 亚稳态.md",
     "SoC设计方法/第2章/§2 延迟、面积的优化.md",
     "SoC设计方法/第2章/§1 可综合描述语句.md",
     "SoC设计方法/第1章概述/第一章概述.md",
     "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/§2 Temperture Idependence.md",
     "模拟集成电路/Refrence Circuits/§1 Supply Insensitive Ref/§1 Supply Insensitive Ref.md",
-    "SoC设计方法/第3章 同步电路与跨时钟域电路设计/§1 亚稳态/§1 亚稳态.md",
     "SoC设计方法/第4章 逻辑综合/§1 逻辑综合概述和基本知识.md",
     "Pasted image 20240617205724.png",
     "SoC设计方法/第4章 逻辑综合/课程截图/Pasted image 20240521212702.png",
