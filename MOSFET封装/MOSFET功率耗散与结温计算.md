@@ -31,3 +31,7 @@ R_thchs：壳到散热器的热阻（散热器胶）
 R_thhsa：散热器到空气热阻
 ## 结温计算
 ![[Pasted image 20250507152814.png]]
+T_cactual：实际壳温
+R_thjc：结到壳的热阻
+R_thchs：壳到散热器的热阻（散热器胶）
+R_thhsa：散热器到空气热阻
