@@ -10,6 +10,7 @@ R_thja：结温到环境的热阻
 
 最大结温限制
 ![[Pasted image 20250507151109.png]]
+P_diss_MOSFET_max：MOSFETz
 T_jmax：最大允许结温
 
 
@@ -17,3 +18,4 @@ T_jmax：最大允许结温
 ![[Pasted image 20250507151335.png]]
 
 
+# 高功率MOSFET功率耗散
