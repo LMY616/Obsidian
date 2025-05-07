@@ -15,9 +15,9 @@ P_diss_MOSFET_max：MOSFET最大损耗功率
 T_jmax：最大允许结温
 
 
-结温计算
+## 结温计算
 ![[Pasted image 20250507151335.png]]
 
 
 # 高功率MOSFET功率耗散
-功率耗
+功率耗散、结温计算、
