@@ -7,3 +7,4 @@
 T_jactual：实际结温（不易测量）
 T_ambient：环境温度
 R_thja：结温到环境的热阻
+![[Pasted image 20250507151109.png]]
