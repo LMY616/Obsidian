@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2a42f42f54de1c7f",
+        "id": "fce238e0618ed75a",
         "type": "tabs",
         "children": [
           {
-            "id": "cac01e1965852bd7",
+            "id": "f298d098ac2e4c74",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "模拟集成电路/Refrence Circuits/§1 Supply Insensitive Ref/§1 Supply Insensitive Ref.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -38,8 +36,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -54,7 +55,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -62,10 +65,13 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "模拟集成电路/Refrence Circuits/§1 Supply Insensitive Ref/§1 Supply Insensitive Ref.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +98,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
             }
           },
           {
@@ -102,10 +109,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "模拟集成电路/Refrence Circuits/§1 Supply Insensitive Ref/§1 Supply Insensitive Ref.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "出链"
             }
           },
           {
@@ -115,8 +123,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -125,8 +137,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "模拟集成电路/Refrence Circuits/§1 Supply Insensitive Ref/§1 Supply Insensitive Ref.md"
-              }
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
             }
           }
         ]
@@ -148,14 +164,17 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "cac01e1965852bd7",
+  "active": "f298d098ac2e4c74",
   "lastOpenFiles": [
+    "未命名 2.canvas",
+    "模拟集成电路/Refrence Circuits/§1 Supply Insensitive Ref/§1 Supply Insensitive Ref.md",
+    "未命名 1.canvas",
+    "未命名.canvas",
     "SoC设计方法/第3章 同步电路与跨时钟域电路设计/§1 亚稳态/§1 亚稳态.md",
     "SoC设计方法/第2章/§2 延迟、面积的优化.md",
     "SoC设计方法/第2章/§1 可综合描述语句.md",
     "SoC设计方法/第1章概述/第一章概述.md",
     "模拟集成电路/Refrence Circuits/§2 Temperture Idependence/§2 Temperture Idependence.md",
-    "模拟集成电路/Refrence Circuits/§1 Supply Insensitive Ref/§1 Supply Insensitive Ref.md",
     "SoC设计方法/第4章 逻辑综合/§1 逻辑综合概述和基本知识.md",
     "Pasted image 20240617205724.png",
     "SoC设计方法/第4章 逻辑综合/课程截图/Pasted image 20240521212702.png",
