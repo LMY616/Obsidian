@@ -26,12 +26,5 @@
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true,
     "iconIdentifier": ":"
-  },
-  "高数考研": "SeMath",
-  "PWM整流器及其控制": "SePWM",
-  "SoC设计方法": {
-    "iconName": "SeSoC",
-    "iconColor": "#33a2ff"
-  },
-  "自动控制原理": "SeRobot"
+  }
 }
