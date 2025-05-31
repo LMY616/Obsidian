@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b5fa5282f0a7a47b",
+        "id": "fffbbab010a06ff5",
         "type": "tabs",
         "children": [
           {
-            "id": "cfa2bfa7a08f2e63",
+            "id": "907fc15e75f08173",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "MOSFET封装/截图/Pasted image 20250507152814.png"
+                "file": "MOSFET封装/MOSFET功率耗散与结温计算.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250507152814"
+              "icon": "lucide-file",
+              "title": "MOSFET功率耗散与结温计算"
             }
           }
         ]
@@ -165,10 +167,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "b2289feec27a07b4",
+  "active": "907fc15e75f08173",
   "lastOpenFiles": [
-    "MOSFET封装/MOSFET功率耗散与结温计算.md",
     "MOSFET封装/截图/Pasted image 20250507152814.png",
+    "MOSFET封装/MOSFET功率耗散与结温计算.md",
     "MOSFET封装/截图/Pasted image 20250507152548.png",
     "MOSFET封装/截图/Pasted image 20250507145903.png",
     "MOSFET封装/截图",
