@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "MOSFET功率耗散与结温计算"
             }
+          },
+          {
+            "id": "1245c374ad76fc50",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.9.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,6 +170,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -167,7 +181,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "907fc15e75f08173",
+  "active": "1245c374ad76fc50",
   "lastOpenFiles": [
     "MOSFET封装/截图/Pasted image 20250507152814.png",
     "MOSFET封装/MOSFET功率耗散与结温计算.md",
